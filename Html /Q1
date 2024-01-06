@@ -1,1 +1,21 @@
-Quetions of html
+Q1.Make an list of character of avengers and use paragraph and headings <h1>to<h6>
+Code :
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Avengers</h1>
+    <h2>Iron Man</h2>
+    <p>Also goes by the name tony stark</p>
+    <h2>Captian America</h2>
+    <p>Also goes by the name steve rogers</p>
+    <h2>Hulk</h2>
+    <p>Also goes by the name bruce banner</p>
+</body>
+</html>
+
+
